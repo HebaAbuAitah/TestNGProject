@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="Default suite" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="193">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="Default test" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="193">
+      <class name="TestTraingle.TraingleTestCases">
+        <test-method signature="test1()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test1" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test10()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test10" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test11" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test12" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test13()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test13" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method signature="test2()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test2" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test3" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test4" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test5" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test6" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test7" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test8" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method signature="test9()[pri:0, instance:TestTraingle.TraingleTestCases@5276e6b0]" started-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" name="test9" finished-at="٢٠٢٢-٠٥-٢٥T٢٣:٠٨:٥٨ EEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+      </class> <!-- TestTraingle.TraingleTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
